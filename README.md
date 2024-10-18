@@ -1,0 +1,1 @@
+In this project assignment, we worked with the eCommerce dataset provided (https://www.kaggle.com/datasets/carrie1/ecommerce-data) to create a Customer Segmentation model using the RFM (Recency, Frequency, Monetary) analysis method.
